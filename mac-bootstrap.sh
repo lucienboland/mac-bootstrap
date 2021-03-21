@@ -64,7 +64,7 @@ for i in ${!_casks[@]}; do
 done
 
 
-_formulae=(shellcheck)
+_formulae=(shellcheck bash-git-prompt)
 
 # iterm2
 
